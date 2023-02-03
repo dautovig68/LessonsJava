@@ -137,7 +137,7 @@ public class Main {
 
 
 
-               // System.out.print("Введите пол (М) или (Ж): ");
+
 
 
 
