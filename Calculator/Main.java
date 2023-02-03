@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Main {
         public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         //Вес
         int m;
         do {
@@ -137,7 +138,7 @@ public class Main {
 
 
 
-               // System.out.print("Введите пол (М) или (Ж): ");
+
 
 
 
